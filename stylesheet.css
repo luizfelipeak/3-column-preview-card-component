@@ -97,6 +97,7 @@ main {
   font-size: 2.5rem;
   font-family: var(--ff-cursive);
   color: var(--color-light-gray);
+  text-transform: uppercase;
 }
 
 .card__element__description {
